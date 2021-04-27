@@ -11,4 +11,9 @@
 9 - Identificar se um número é par: analisar_par.py  <br />
 10 - ler três valores numéricos e escrever o maior entre eles: maior_valor.py <br />
 11 - Calculando a média em Python: media.py  <br />
-12 - Verificar se um número é par ou ímpar: par_ou_impar.py  <br / >
+12 - Verificar se um número é par ou ímpar: par_ou_impar.py  <br />
+13 - Primeiro for simples: primeiro_for.py <br />
+14 - Primeiro while simples: primeiro_while.py <br />
+15 - Calculando a média em Python usando while para não deixa passa nota errada: media_com_while.py <br />
+16 - Verificar se o número é primo ou não: numero_e_primo_ou_nao.py <br />
+
