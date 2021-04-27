@@ -1,6 +1,6 @@
 # aprendendo_python
 
-1 - Primeiro programa: *ola_mundo.py* <br />
+1 - Primeiro programa: ola_mundo.py <br />
 2 - Operação de soma em Python: soma.py <br />
 3 - Operação de subtração em Python: subtracao.py <br />
 4 - Operação de divisão em Python: divisao.py <br />
