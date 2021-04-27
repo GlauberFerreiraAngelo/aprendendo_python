@@ -8,3 +8,7 @@
 6 - Operação de resto em Python: resto.py  <br />
 7 - Operação de soma e subtração em Python: soma_e_subtracao.py <br />
 8 - Entrada e saida em python: digitando_valores.py  <br />
+9 - Identificar se um número é par: analisar_par.py  <br />
+10 - ler três valores numéricos e escrever o maior entre eles: maior_valor.py <br />
+11 - Calculando a média em Python: media.py  <br />
+12 - Verificar se um número é par ou ímpar: par_ou_impar.py  <br / >
